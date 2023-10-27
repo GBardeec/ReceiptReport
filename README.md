@@ -6,6 +6,4 @@
 1. Введите команду для заполнения базы условными данными: php artisan migrate --seed
 
 ### Начало работы:
-1. Введите команды:
-1.1. npm run dev
-1.2. php artisan serve
+1. Введите команды: npm run dev и php artisan serve
